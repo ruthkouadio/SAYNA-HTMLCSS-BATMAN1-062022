@@ -1,0 +1,28 @@
+header {
+    background-image: url(Assets/Illustrations/Bathome1.png);
+}
+
+main {
+    background-color: brown;
+}
+
+section1 {
+    display: flex;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+
+section2 {
+    text-align: center;
+    display: inline-block;
+}
+
+section3 {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+}
